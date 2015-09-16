@@ -1,2 +1,4 @@
 # bam-csharp
-BuildAMation C# package repository
+[BuildAMation](https://github.com/markfinal/BuildAMation) C# package repository
+
+Currently not supported
