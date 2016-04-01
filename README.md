@@ -1,6 +1,3 @@
-# bam-csharp
-[BuildAMation](https://github.com/markfinal/BuildAMation) C# package repository
+# [![BuildAMation](http://buildamation.com/BAM-small.png)](https://github.com/markfinal/BuildAMation) C# package repository
 
-Currently not supported
-
-![BuildAMation Logo](http://buildamation.com/BAM.png)
+**Currently not supported**
